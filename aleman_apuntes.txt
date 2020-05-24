@@ -1,0 +1,291 @@
+Apuntes aleman
+
+Personal pronomen
+Apuntes aleman
+
+
+wollen(intension)   werden(become)  sollen(deber)   müssen(obligacion)  dürfen(permitido)   
+-----------------------------------------------------------------------------------------
+will                werde           soll            muss                darf
+willst              wirst           sollst          musst               darfst
+will                wird            soll            muss                darf
+wollen              werden          sollen          müssen              dürfen
+wollt               werdet          sollt           müsst               dürft
+wollen              werden          sollen          müssen              dürfen
+
+können(capacidad)   
+-------------------
+kann
+kannst
+kann
+können
+könnt
+können
+
+Präteritum
+----------------
+haben                sein           werden
+--------            -----------     -----------
+hatte               war             wurde
+hattest             warst           wurdest
+hatte               war             wurde
+hatten              waren           wurden
+hattet              wart            wurdet
+hatten              waren           wurden
+
+wollen(intension)   können(become)  sollen(deber)   müssen(obligacion)  dürfen(permitido)   
+-----------------------------------------------------------------------------------------
+wollte              konnte          sollte          musste              durfte
+wolltest            konntest        solltest        musstest            durftest
+wollte              konnte          sollte          musste              durfte
+wollten             konnten         sollten         mussten             durften
+wolltet             konntet         solltet         musstet             durftet
+wollten             konnten         sollten         mussten             durften
+
+indireckter Rede!: Presens, präteritum oder konditionel
+B: warm bist d uso generut?
+Mein Bruder sagte, warum ich so generut bin/wäre/sein würde. 
+
+Bestimel Artikel
+----------------
+N    der        die        das        die    
+A    den        die        das        die
+D    dem        der        dem        den
+
+UmBestimel Artikel
+----------------
+N    ein        eine    ein     -    
+A    einen      eine    ein     -
+D    einem      einer   einem   -
+
+
+Possesive
+Dependientes
+----------------------
+        ich     du      er      si      es      wir     ihr     Sie
+------------------------------------------------------------------------        
+N   m/n mein    dein    sein    ihr     sein    unser   euer    Ihr
+    f/p meine   deine   seine   ihre    seine   unsere  euere   Ihre
+------------------------------------------------------------------------
+D   m/n meinem  deinem  seinem  ihrem   seinem  unserem euerem  Ihrem
+    f   meiner  deiner  seiner  ihrer   seiner  unserer euerer  Ihrer
+    p   meinen  deinen  seinen  ihren   seinen  unseren eueren  Ihren
+------------------------------------------------------------------------
+A   m   meinen  deinen  seinen  ihren   seinen  unseren eueren  Ihren
+    n   mein    dein    sein    ihr     sein    unser   euer    Ihr
+    f/p meine   deine   seine   ihre    seine   unsere  euere   Ihre
+------------------------------------------------------------------------
+
+Pronombre posesivo
+----------------------
+        ich     du      er      si      es      wir     ihr     Sie
+------------------------------------------------------------------------        
+N   m   meiner  deiner  seiner  ihrer   seiner  unserer euerer  Ihrer
+    n   meins   deins   seins   ihrs    seins   unsers  euers   Ihrs
+    f/p meinem  deinem  seinem  ihrem   seinem  unserem euerem  Ihrem
+------------------------------------------------------------------------
+D   m/n meiner  deiner  seiner  ihrer   seiner  unserer euerer  Ihrer
+    f   meinen  deinen  seinen  ihren   seinen  unseren eueren  Ihren
+    p   meinen  deinen  seinen  ihren   seinen  unseren eueren  Ihren
+------------------------------------------------------------------------
+A   m   meinen  deinen  seinen  ihren   seinen  unseren eueren  Ihren
+    n   meins   deins   seins   ihrs    seins   unsers  euers   Ihrs
+    f/p meine   deine   seine   ihre    seine   unsere  euere   Ihre
+------------------------------------------------------------------------
+
+***************************************
+Nota importante:
+El verbo principal en el aleman es el que va justo despues del Stv sin importar si es
+AUX.
+La negacion del verbo va justo antes del verbo principal.
+
+***************************************
+
+Personal pronomen
+----------------------
+n       A       D
+----------------------
+ich     mich    mir
+du      dich    dir
+er      ihn     ihm
+es      es      ihm
+sie     sie     ihr
+wir     uns     uns
+ihr     euch    euch
+sie/Sie sie/Sie ihnen/Ihnen
+
+n       A       D
+----------------------
+ich     mich    mir
+du      dich    dir
+er      ihn     ihm
+es      es      ihm
+sie     sie     ihr
+wir     uns     uns
+ihr     euch    euch
+sie/Sie sie/Sie ihnen/Ihnen
+
+
+Imperative
+----------------------
+<Verben für Sie> Sie (doch)...!
+            du          ihr
+sein        sei...!     seid...!
+haben       hab...!     habt...!
+
+indireckter Rede!: sollen presens, sollen würde.
+B: Räum den Zimmer auf!
+Mein Bruder sagte, dass ich mein Zimmer aufräumen soll/ sollen würde.
+
+komparativ/superlativ
+----------------------
+komparativ: -er + als
+superlativ: am  + -sten      -d/-t/-s/-z: -esten
+
+einsilbigen:    a->ä
+                o->ö
+                u->ü
+                
+
+Adjektiv        komparativ      superlativ
+------------------------------------------
+gut             besser          am besten
+gern            lieber          am liebsten
+viel            mehr            am meinsten
+schlecht        shcleckter      am shlechtesten
+
+superlativ fragen:  Welche(Akkt) + susta. + ist + superlativ?
+
+segundo mejor: sweit(superlativ)
+
+Konjuntiv II(Konditionel)
+werden
+------------------------------------------
+würde
+würdest
+würde
+würden
+würdet
+würden
+
+indireckter Rede!: Mismo tiempo.
+
+M: Wenn wärst du schön, hättest du eine Freundin.
+Mein Mutter sagte, dass wenn ih schön wäre, ein Freundin hätte.
+
+Prefijos de tiempo
+-------------------
+am: dia especifico
+im: periodo mayor a un dia
+von: desde
+bis: hasta
+
+Verbes mit Akkt/Dattv
+
+Berwenung-> Akkt
+Position-> Dttv
+
+Berwenung:  sich setzen     stellen     legen   hängen
+Position:   sitzen          stehen      liegen  hängen
+
+
+konnectors
+-------------------
+000000000   stv + verben + ... , konnector + stv + vergen + ...
+
+denn: porque
+oder: ó, ó bien
+doch: sin embargo
+aber: pero
+sondern: si no que
+-----------
+111111111   stv + verben + ..., konnector + verben + stv + ...
+
+darum: por eso
+deshalb: por eso
+dann: entonces
+danach: despues
+trotzdem: sin embargo
+-----------
+xxxxxxxxxxx stv + verben + ... + , konnector + stv + ... + verben
+            konnector + stv + ... + verben, verben + stv + ...
+           
+weil: porque
+da: porque
+dass: que(tan...que)
+obwohl: aunque
+bevor: antes
+während: mientras
+
+
+Adjektive nach dem bestimmten Artikel
+-------------------
+    M       N       F       P
+N   -e      -e      -e      -en
+A   -en     -e      -e      -en
+D   -en     -en     -en     -en
+
+
+Adjektive nach dem umbestimmten Artikel
+-------------------
+    M       N       F       P
+N   -er     -es     -e      -e
+A   -en     -es     -e      -e
+D   -en     -en     -en     -en
+
+
+prefijos con Dattv
+-------------------
+ab  mit     zu      nach    bei     von     seit        gegen über      aus
+
+
+Gerundio(Gerade)
+-------------------
+Pasado
+Stv + aux + gerade + verben
+Presente
+Stv + verben + ... + gerade
+
+
+Partizip I(präsens)
+-------------------
+Artikel + Partizip I + Stv + ...
+Infinitiv+d+Adjektivendungen
+Adjektivendungen: Las mismas reglas de declinacion de Nom, Akkt, Dttv de umbestimmten y bestimmten
+
+Das lernende kind.
+
+Partizip II(Perfekt)
+-------------------
+Artikel + Partizip I + Stv + ...
+Perfekt+Adjektivendungen
+Adjektivendungen: Las mismas reglas de declinacion de Nom, Akkt, Dttv de umbestimmten y bestimmten
+
+Das gelernten Vokabeln.
+
+Subjuntivo
+-------------------
+Stv + haben/sein(K. II) + ... + verben + Modal Verben Inf.
+
+indireckter Rede!: En el subjuntivo los verbos ya fueron reordenados.
+
+B: Du hättest das nicht tun sollen.
+Mein Bruder sagte, dass ich das nicht hätte tun sollen.
+
+Not Only but also
+---------------------
+Sowohl... als auch
+nicht nur....sonder auch
+
+bei: Junto, cercano |   wärend
+An: Pegado
+
+
+brauchen
+-------------------------
+Brauchen + Stv
+
+Nunca usar brauchen, dass Nunca Nunca
+Nunca usar brauchen + verben Nunca Nunca
+
+Wie brauchte das Telefon fur das Internet benutzen. MAL -> Wie brauchte das Telefon fur das Internet benutzung.
